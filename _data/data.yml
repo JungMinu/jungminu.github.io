@@ -1,0 +1,81 @@
+
+sidebar:
+    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    education: False # set to False if you want education in main section instead of in sidebar
+
+    # Profile information
+    name: 정민우
+    tagline: NodeSource Senior Solutions Engineer
+    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+
+    # Sidebar links
+    email: minwoo@nodesource.com
+    website: nodesource.com/about
+    github: jungminu
+    gitlab:
+    bitbucket:
+    stack-overflow: # Number/Username, e.g. 123456/alandoe
+    codewars:
+    goodreads: # Number-Username, e.g. 123456-alandoe
+
+    languages:
+      - idiom: English
+        level: Professional
+
+      - idiom: Korean
+        level: Native
+
+career-profile:
+    title: Career Profile
+    summary: |
+      React+Node.js 컨설턴트. Node.js 공식 커미터, NodeSource Senior Solutions Engineer로서 한국에서 풀타임 원격 근무중이며, Node.js 재단에서 시행하는 Certified Developer Program 문제 출제 및 검토 위원입니다.
+      Github: https://github.com/jungminu
+
+experiences:
+    - role: Senior Solutions Engineer
+      time: 2014 ~ Present
+      company: NodeSource
+      details: |
+        글로벌 기업(Mastercard, GoPro, Paypal, Delta Air Lines, WB Games, 21st Century Fox 등)을 대상으로 6년+ 이상 Node.js+React 컨설팅 및 교육
+          - Node.js 엔터프라이즈 버전, NSolid (https://nodesource.com/products/nsolid) 개발
+          - NodeSource Accounts (https://accounts.nodesource.com) 개발
+          - NodeSource Platform (https://platform.nodesource.io) 개발
+          - NodeSource Products Dashboard (https://products-dashboard.nodesource.com) 개발
+          - NodeSource Website (https://nodesource.com) 개발
+
+    - role: Node.js Certified Developer Program 문제 출제 및 검토 위원
+      time: 2019 ~ Present
+      company: Node.js Foundation
+      details: |
+        Node.js 재단에서 시행하는 개발자 검증 시험, NCD(Node.js Certified Developer) Program 문제 출제 및 검토 위원
+          - https://foundation.nodejs.org/resources/certification
+          - https://github.com/nodejs-certified-developer
+
+    - role: 발표자
+      time: 2019
+      company: KAIST 경영대학 전문가 초청 연구세미나
+      details: |
+        Online collaboration 연구프로젝트 전문가 초청세미나 발표
+          - 2019년 5월 9 목요일 17시 (KAIST 경영대학 9705 회의실)
+          - 참석자: KAIST 대전본원 이상윤 교수님, 한국기술교육대학교 이준영 교수님, 서울캠퍼스 경영공학부 정다솜 학생 등
+          - https://www.business.kaist.ac.kr/about/0607
+
+    - role: 발표자
+      time: 2015
+      company: 삼성전자
+      details: |
+        삼성전자 오픈소스 컨퍼런스 발표
+          - Open Source Evangelism - Node.js 재단 최초의 한국인 에반젤리스트가 되기까지
+          - https://www.sosconhistory.net/soscon2015/program.html
+
+    - role: Software Developer
+      time: 2012 ~ 2014
+      company: 삼성전자 소프트웨어센터 
+      details: |
+        삼성전자 소프트웨어 멤버십
+          - 삼성전자 수원 본사 소프트웨어센터, DMC, C-Lab 협력 프로젝트 다수 개발
+          - Samsung Tomorrow Solution, IMPACT 부문 - 대상(미래창조과학부 장관상)
+
+education:
+    - degree: 정보보호학 학사
+      university: 세종대학교
